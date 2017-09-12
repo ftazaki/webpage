@@ -1,4 +1,4 @@
 TAZAKI's Web Page
 ==================
 
-https://github.com/ftazaki/webpage.git
+https://ftazaki.github.io/webpage/

@@ -7,7 +7,6 @@
 FUMIE TAZAKI
 =======================================================
 
-<<<<<<< HEAD
 .. image:: photo.jpg
    :scale: 355%
    :width: 150px
@@ -16,33 +15,17 @@ FUMIE TAZAKI
 
 |
 
-=======
->>>>>>> 20f25fd6a938df2446b8f050771222b66036531c
 田崎文得のホームページです。
 
 Here is Fumie Tazaki's web page.
 
-<<<<<<< HEAD
 |
 
 ===============
 
 
-=======
-
-===============
-
->>>>>>> 20f25fd6a938df2446b8f050771222b66036531c
 .. toctree::
    :maxdepth: 1
 
    contents/CV
-<<<<<<< HEAD
    contents/Achievement
-=======
-   contents/Achievement
-
-..   3.Reseach_Theme
-..   4.Others
-
->>>>>>> 20f25fd6a938df2446b8f050771222b66036531c
